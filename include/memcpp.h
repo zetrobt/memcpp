@@ -4,9 +4,6 @@
 #include <assert.h>
 #include <vector>
 
-#ifndef TGAPI_MEMCPP_H
-#define TGAPI_MEMCPP_H
-
 namespace memcpp {
 
     class memcpp {
@@ -23,5 +20,3 @@ namespace memcpp {
     };
 
 }
-
-#endif
